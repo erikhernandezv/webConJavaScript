@@ -1,2 +1,5 @@
-# webConJavaScript
-Un Ejemplo de empaquetan de una web con JavaScript, Css y Html
+# Project webConJavaScript
+
+Un Ejemplo de maquetación de una web con JavaScript, Css y Html
+
+
